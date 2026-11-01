@@ -1,0 +1,22 @@
+{
+  "wheel_id": 620,
+  "structure": "umbrella",
+  "slug": "prowaterproofingadelaide-102",
+  "project": "waterproofing-contractors-adelaide-warranty-0b18654e2cc418b7f86",
+  "parent_t1_ref": "prowaterproofingadelaide-150",
+  "node_role": "feeder",
+  "money_target": "prowaterproofingadelaide.com.au",
+  "primary_kw": "waterproofing contractors adelaide warranty",
+  "intended_url": "https://aumedia.neocities.org/waterproofing-contractors-adelaide-warranty-0b18654e2cc418b7f86/",
+  "tier": "T2",
+  "writeback_nonce": "c2cfcc01d8a5e50d",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/prowaterproofingadelaide-150/",
+      "anchor": "this guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
